@@ -77,7 +77,7 @@ This application has been deployed for free using Streamlit Community Cloud and 
 *(Replace this placeholder with the actual URL of your Streamlit Community Cloud app once deployed.)*
 
 ## Project Structure
-'''
+```
 ecommerce-dashboard-streamlit/
 ├── data/
 │   ├── app.py
@@ -86,7 +86,7 @@ ecommerce-dashboard-streamlit/
 ├── .gitignore              # Ignores irrelevant files (like myenv/)
 ├── requirements.txt
 └── README.md
-'''
+```
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
