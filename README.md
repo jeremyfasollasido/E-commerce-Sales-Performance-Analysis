@@ -1,8 +1,5 @@
 # E-commerce Sales Performance Analysis
 
-![Streamlit App Screenshot](https://via.placeholder.com/800x400?text=Screenshot+of+Streamlit+Dashboard)
-*(Replace this placeholder with a screenshot of your Streamlit dashboard after successful deployment!)*
-
 ## Project Description
 
 This project presents a comprehensive analysis of e-commerce sales performance, aiming to extract crucial insights from online retail transaction data. By understanding sales trends, top-selling products, and customer behavior, this project provides actionable strategic recommendations to enhance operational efficiency and marketing strategies.
